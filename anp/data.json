@@ -1,0 +1,267 @@
+{
+ "verificado_em": "30/10/2026",
+ "fonte": "ANP - Síntese Semanal de Preços dos Combustíveis",
+ "semanas": [
+  {
+   "edicao": 35,
+   "inicio": "23/08/2026",
+   "fim": "29/08/2026",
+   "sao_luis": {
+    "gasolina": 6.51,
+    "etanol": 4.82,
+    "diesel_s10": 6.85,
+    "glp": 129.2
+   },
+   "teresina": {
+    "gasolina": 6.81,
+    "etanol": 4.81,
+    "diesel_s10": 7.38,
+    "glp": 109.77
+   },
+   "cuiaba": {
+    "gasolina": 6.9,
+    "etanol": 3.86,
+    "diesel_s10": 6.83,
+    "glp": 125.22
+   },
+   "brasil": {
+    "gasolina": 6.53,
+    "etanol": 3.94,
+    "diesel_s10": 6.88,
+    "glp": 113.9
+   }
+  },
+  {
+   "edicao": 36,
+   "inicio": "30/08/2026",
+   "fim": "05/09/2026",
+   "sao_luis": {
+    "gasolina": 6.52,
+    "etanol": 4.89,
+    "diesel_s10": 6.99,
+    "glp": 129.51
+   },
+   "teresina": {
+    "gasolina": 6.82,
+    "etanol": 4.8,
+    "diesel_s10": 7.2,
+    "glp": 110.43
+   },
+   "cuiaba": {
+    "gasolina": 6.97,
+    "etanol": 3.97,
+    "diesel_s10": 6.82,
+    "glp": 124.95
+   },
+   "brasil": {
+    "gasolina": 6.51,
+    "etanol": 3.95,
+    "diesel_s10": 6.88,
+    "glp": 114.09
+   }
+  },
+  {
+   "edicao": 37,
+   "inicio": "06/09/2026",
+   "fim": "12/09/2026",
+   "sao_luis": {
+    "gasolina": 6.5,
+    "etanol": 4.93,
+    "diesel_s10": 7.05,
+    "glp": 127.7
+   },
+   "teresina": {
+    "gasolina": 6.82,
+    "etanol": 4.81,
+    "diesel_s10": 7.37,
+    "glp": 110.68
+   },
+   "cuiaba": {
+    "gasolina": null,
+    "etanol": null,
+    "diesel_s10": null,
+    "glp": null
+   },
+   "brasil": {
+    "gasolina": 6.53,
+    "etanol": 4.04,
+    "diesel_s10": 6.97,
+    "glp": 114.28
+   }
+  },
+  {
+   "edicao": 38,
+   "inicio": "13/09/2026",
+   "fim": "19/09/2026",
+   "sao_luis": {
+    "gasolina": 6.5,
+    "etanol": 4.91,
+    "diesel_s10": 7.08,
+    "glp": 130.34
+   },
+   "teresina": {
+    "gasolina": 6.84,
+    "etanol": 4.83,
+    "diesel_s10": 7.41,
+    "glp": 111.45
+   },
+   "cuiaba": {
+    "gasolina": 6.97,
+    "etanol": 4.17,
+    "diesel_s10": 7.57,
+    "glp": 124.73
+   },
+   "brasil": {
+    "gasolina": 6.54,
+    "etanol": 4.08,
+    "diesel_s10": 7.13,
+    "glp": 114.24
+   }
+  },
+  {
+   "edicao": 39,
+   "inicio": "20/09/2026",
+   "fim": "26/09/2026",
+   "sao_luis": {
+    "gasolina": 6.52,
+    "etanol": 4.86,
+    "diesel_s10": 7.43,
+    "glp": 136.12
+   },
+   "teresina": {
+    "gasolina": 6.84,
+    "etanol": 4.84,
+    "diesel_s10": 7.78,
+    "glp": 111.19
+   },
+   "cuiaba": {
+    "gasolina": 6.97,
+    "etanol": 4.18,
+    "diesel_s10": 7.62,
+    "glp": 125.16
+   },
+   "brasil": {
+    "gasolina": 6.55,
+    "etanol": 4.1,
+    "diesel_s10": 7.33,
+    "glp": 114.8
+   }
+  },
+  {
+   "edicao": 40,
+   "inicio": "27/09/2026",
+   "fim": "03/10/2026",
+   "sao_luis": {
+    "gasolina": 6.48,
+    "etanol": 4.7,
+    "diesel_s10": 7.42,
+    "glp": 136.83
+   },
+   "teresina": {
+    "gasolina": 6.85,
+    "etanol": 4.86,
+    "diesel_s10": 7.77,
+    "glp": 111.81
+   },
+   "cuiaba": {
+    "gasolina": 7.17,
+    "etanol": 4.37,
+    "diesel_s10": 7.74,
+    "glp": 125.78
+   },
+   "brasil": {
+    "gasolina": 6.55,
+    "etanol": 4.13,
+    "diesel_s10": 7.35,
+    "glp": 114.88
+   }
+  },
+  {
+   "edicao": 41,
+   "inicio": "04/10/2026",
+   "fim": "10/10/2026",
+   "sao_luis": {
+    "gasolina": 6.51,
+    "etanol": 4.82,
+    "diesel_s10": 7.43,
+    "glp": 137.56
+   },
+   "teresina": {
+    "gasolina": 6.81,
+    "etanol": 4.82,
+    "diesel_s10": 7.73,
+    "glp": 109.56
+   },
+   "cuiaba": {
+    "gasolina": 7.13,
+    "etanol": 4.35,
+    "diesel_s10": 7.63,
+    "glp": 125.79
+   },
+   "brasil": {
+    "gasolina": 6.54,
+    "etanol": 4.14,
+    "diesel_s10": 7.36,
+    "glp": 114.61
+   }
+  },
+  {
+   "edicao": 42,
+   "inicio": "11/10/2026",
+   "fim": "17/10/2026",
+   "sao_luis": {
+    "gasolina": 6.45,
+    "etanol": 4.8,
+    "diesel_s10": 7.39,
+    "glp": 137.76
+   },
+   "teresina": {
+    "gasolina": 6.8,
+    "etanol": 4.83,
+    "diesel_s10": 7.76,
+    "glp": 109.58
+   },
+   "cuiaba": {
+    "gasolina": 7.09,
+    "etanol": 4.22,
+    "diesel_s10": 7.74,
+    "glp": 125.52
+   },
+   "brasil": {
+    "gasolina": 6.53,
+    "etanol": 4.11,
+    "diesel_s10": 7.34,
+    "glp": 114.73
+   }
+  },
+  {
+   "edicao": 43,
+   "inicio": "18/10/2026",
+   "fim": "24/10/2026",
+   "sao_luis": {
+    "gasolina": 6.43,
+    "etanol": 4.82,
+    "diesel_s10": 7.5,
+    "glp": 137.92
+   },
+   "teresina": {
+    "gasolina": 6.78,
+    "etanol": 4.81,
+    "diesel_s10": 7.72,
+    "glp": 108.68
+   },
+   "cuiaba": {
+    "gasolina": 6.93,
+    "etanol": 4.15,
+    "diesel_s10": 7.68,
+    "glp": 127.47
+   },
+   "brasil": {
+    "gasolina": 6.49,
+    "etanol": 4.11,
+    "diesel_s10": 7.32,
+    "glp": 114.98
+   }
+  }
+ ]
+}
